@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints the name of the file
- *
- * Returns:Always (0)success
+ * Main: prints the name of the compiled file
+ * Returns : Always returns (0) on sucess
  */
 
 int main() {
